@@ -1,8 +1,5 @@
 # Olá meu nome e Heitor
 sou estudante do curso do curso técnico em informática
-[entre em contato comigo via ]
-
-
 
 _
 
