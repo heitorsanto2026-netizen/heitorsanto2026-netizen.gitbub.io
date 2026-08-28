@@ -1,4 +1,4 @@
 # titulo muito bonito
 ## segundo titulo bonito
 ###### olha eu aqui
-texto *texto* texto **texto** texto ***texto***
+_texto_ *texto* _texto_ **texto** _texto_ ***texto***
