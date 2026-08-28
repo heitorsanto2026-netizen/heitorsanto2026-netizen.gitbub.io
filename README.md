@@ -7,6 +7,8 @@ _
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,cs,wasm,linux,figma)](https://skillicons.dev)
 
+_
+
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
