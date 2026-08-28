@@ -1,6 +1,6 @@
 # Olá meu nome e Heitor
-# Nasci em 27/05/2010 
-# Moro nas américas
+ Nasci em 27/05/2010 
+ Moro nas américas
 sou estudante do curso do curso técnico em informática
 
 _
