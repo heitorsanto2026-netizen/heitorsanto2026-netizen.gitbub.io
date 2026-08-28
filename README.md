@@ -19,7 +19,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Software Engineer** \
 [**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+Linguagens & Tecnologias: `figma`, `portugol`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
@@ -35,7 +35,7 @@ Projetos em destaque: [Ignite](), [Bootcamp]()
 
 **Software Engineer** \
 [**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Linguagens & Tecnologias: `github`, ``, `css`, `Kotlin`, `OpenShift` \
 Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 <br/>
