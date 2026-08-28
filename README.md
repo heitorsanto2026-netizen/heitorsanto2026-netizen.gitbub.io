@@ -1,7 +1,9 @@
 # Olá meu nome e Heitor
  Nasci em 27/05/2010 
-# Moro nas américas
-sou estudante do curso do curso técnico em informática
+# Moro nas em algum lugar das américas
+meus Hobbs são montar lego e colecionar TCG
+# sou estudante do curso do curso técnico em informática
+
 
 _
 
